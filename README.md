@@ -1,5 +1,8 @@
-## Hi there 👋
+## Holiiiiii 👋
 
+<span style="background: linear-gradient(to right, purple, skyblue); -webkit-background-clip: text; color: transparent; font-size: 30px; font-weight: bold;">
+Marysabel Aedo
+</span>
 <!--
 **MaryAedo/MaryAedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
