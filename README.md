@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Es un gusto que estés por mi perfil! ❤️
 
-Soy estudiante de 2️⃣ año de Ingeniería en Infraestructura Tecnológica, con conocimientos y habilidades centradas a servicios Cloud ☁️ y Ciberseguridad 🔐. Manejo el inglés a nivel avanzado ya que lo implemento en mis estudios leyendo documentación en dicho idioma, y en el contenido que consumo.
+Soy estudiante de 3️⃣ año de Ingeniería en Infraestructura Tecnológica, con conocimientos y habilidades centradas a servicios Cloud ☁️ y Ciberseguridad 🔐. Manejo el inglés a nivel avanzado ya que lo implemento en mis estudios leyendo documentación en dicho idioma, y en el contenido que consumo.
 
 Me considero una ciudadana global 🌎❤️
 
